@@ -1,1 +1,1 @@
-a less friendly, Hello World!
+Hello World!
